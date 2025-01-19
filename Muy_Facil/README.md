@@ -8,23 +8,6 @@ Pasos detallados: Cada writeup incluye una explicación clara para que no te pie
 
 Errores comunes: También mencionaré los tropiezos que encontré para que aprendas de ellos.
 
-Lista de máquinas resueltas 📝
-Máquina 1: Injection
-
-Máquina 2: Trust
-
-Máquina  3:Breakmyssh
-
-Máquina 4:Firsthacking
-
-Máquina 5:Hedgehog
-
-Máquina 6:BorazuwarahCTF
-
-Máquina 7:Vacaciones
-
-Máquina 8: Obsession
-
 ¿Por qué empezar aquí? 🤔
 Si estás dando tus primeros pasos en Docker Labs, este nivel es perfecto para:
 
